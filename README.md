@@ -15,7 +15,7 @@
 
 ### Projects
 
-- I have many project ideas that I am working on and can never decide on one Haha.
+- I have many project ideas that I am working on and can never decide on one and I never end up finishing any of them Haha.
 - That being said I might turn this account into a list of dead projects
 - I am currently working on a game I am calling [Project Idle Desktop](http://github.com/KojoOkami/ProjectIdleDesktop) for now until I come up with a name for it
   - (That being said the name might end up being Idle Desktop haha)

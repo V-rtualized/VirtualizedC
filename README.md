@@ -27,5 +27,6 @@
   - **C#** (Learning with Unity, although its very similar to Java)
   - **PHP** (Dabbled)
   - **Lua** (Dabbled)
+- I am also going to make a website soon! (Probably through github hosting)
 
 You can reach me at through discord for personal things or at connormills535@gmail.com for more professional matters.

@@ -1,8 +1,4 @@
-## Hello! / こにちわ！
-
-<!--
-**KojoOkami/KojoOkami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Hello!
 
 ### About Me
 
@@ -11,7 +7,6 @@
 - Many of my friends and people I talk to are on discord, feel free to add me (Nekomata#0001)
 - It is one of my goals to complete a full indie game although I am not fully pursuing game development
 - I am a pretty big weeb (If you cant already tell from my profile picture)
-- I am also currently learning Japanese!
 
 ### Projects
 
@@ -24,9 +19,10 @@
   - **Python** (Experienced)
   - **HTML/CSS** (Experienced, but very rusty)
   - **JavaScript** (Experienced, especially with GameQuery)
+  - **Flutter/Dart** (Learning for app development right now)
   - **C#** (Learning with Unity, although its very similar to Java)
   - **PHP** (Dabbled)
   - **Lua** (Dabbled)
-- I am also going to make a website soon! (Probably through github hosting)
+- I am also going to make a website soon!
 
-You can reach me at through discord for personal things or at connormills535@gmail.com for more professional matters.
+You can reach me at through discord (Nekomata#0001) for personal things or at connormills535@gmail.com for more professional matters.

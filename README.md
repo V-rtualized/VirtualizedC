@@ -12,14 +12,13 @@
 
 - I have many project ideas that I am working on and can never decide on one and I never end up finishing any of them Haha.
 - That being said I might turn this account into a list of dead projects
-- I am currently working on a game I am calling [Project Idle Desktop](http://github.com/KojoOkami/ProjectIdleDesktop) for now until I come up with a name for it
-  - (That being said the name might end up being Idle Desktop haha)
+- I am currently working on a website I am calling [Project Team Docs](http://github.com/KojoOkami/ProjectTeamDocs) for now until I come up with a name for it
 - I've been programming since around 2014 in..
   - **Java** (Fluent)
   - **Python** (Experienced)
+  - **ReactJS (Experienced)
+  - **JavaScript** (Experienced)
   - **HTML/CSS** (Experienced, but very rusty)
-  - **JavaScript** (Experienced, especially with GameQuery)
-  - **Flutter/Dart** (Learning for app development right now)
   - **C#** (Learning with Unity, although its very similar to Java)
   - **PHP** (Dabbled)
   - **Lua** (Dabbled)

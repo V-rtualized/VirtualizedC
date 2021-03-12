@@ -16,7 +16,7 @@
 - I've been programming since around 2014 in..
   - **Java** (Fluent)
   - **Python** (Experienced)
-  - **ReactJS (Experienced)
+  - **ReactJS** (Experienced)
   - **JavaScript** (Experienced)
   - **HTML/CSS** (Experienced, but very rusty)
   - **C#** (Learning with Unity, although its very similar to Java)

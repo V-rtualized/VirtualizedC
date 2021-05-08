@@ -12,7 +12,8 @@
 
 - I have many project ideas that I am working on and can never decide on one and I never end up finishing any of them Haha.
 - That being said I might turn this account into a list of dead projects
-- I am currently working on a website I am calling [Project Team Docs](http://github.com/KojoOkami/ProjectTeamDocs) for now until I come up with a name for it
+- I am currently working for a startup company called [Jikoo](https://Jikoo.co), as the Co-founder & Chief Engineer
+- On the side I am also working on a 2D Action Visual Novel Indie game in Unity that is yet to be named
 - I've been programming since around 2014 in..
   - **Java** (Fluent)
   - **Python** (Experienced)

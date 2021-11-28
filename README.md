@@ -15,14 +15,13 @@
 - I am currently working for a startup company called [Jikoo](https://Jikoo.co), as the Co-founder & Chief Engineer
 - On the side I am also working on a 2D Action Visual Novel Indie game in Unity that is yet to be named
 - I've been programming since around 2014 in..
-  - **Java** (Fluent)
+  - **Java** (Fluent, but rusty)
+  - **NodeJS** (Fluent)
   - **Python** (Experienced)
   - **ReactJS** (Experienced)
-  - **JavaScript** (Experienced)
   - **HTML/CSS** (Experienced, but very rusty)
-  - **C#** (Learning with Unity, although its very similar to Java)
+  - **C#** (Learning with Unity, although its similar to Java)
   - **PHP** (Dabbled)
   - **Lua** (Dabbled)
-- I am also going to make a website soon!
 
 You can reach me at through discord (Nekomata#0001) for personal things or at connormills535@gmail.com for more professional matters.

@@ -16,7 +16,7 @@
 - On the side I am also working on a 2D Action Visual Novel Indie game in Unity that is yet to be named
 - I've been programming since around 2014 in..
   - **Java** (Fluent, but rusty)
-  - **NodeJS** (Fluent)
+  - **NodeJS/TypeScript** (Fluent)
   - **Python** (Experienced)
   - **ReactJS** (Experienced)
   - **HTML/CSS** (Experienced, but very rusty)
